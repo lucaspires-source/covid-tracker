@@ -1,12 +1,11 @@
+import React, { Component } from 'react'
 
-import './App.css';
-
-function App() {
-  return (
-    <div className="App">
-        <h1>O pai ta ON</h1>
-    </div>
-  );
+export default class App extends Component {
+  render() {
+    return (
+      <div>
+        o pai ta off
+      </div>
+    )
+  }
 }
-
-export default App;
