@@ -3,7 +3,7 @@ import styles from './CountryPicker.module.css'
 const CountryPicker = () => {
     return (
         <div>
-            Country
+
         </div>
     )
 }
