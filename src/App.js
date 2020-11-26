@@ -8,6 +8,7 @@ export default class App extends Component {
 
   state ={
     data:{},
+    country:'',
   }
 
   async componentDidMount(){
