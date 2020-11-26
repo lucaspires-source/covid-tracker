@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App] using external API and MATERIAL UI (https://github.com/facebook/create-react-app).
 check it out https://lucas-covid19-tracker.netlify.app/
 
 ## Available Scripts
