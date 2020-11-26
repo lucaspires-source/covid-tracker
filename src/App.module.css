@@ -1,12 +1,12 @@
 body{
-    background-color: rgba(250, 250, 250, 0.698)
+    background-color: rgba(250, 250, 250, 0.13)
 }
 
 .container{
     display: flex;
     align-items: center;
     justify-content: center;
-    flex-direction: column;
+    flex-direction:column ;
 }
 
 .image {
